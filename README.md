@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Navya!
-- 🌱 I’m currently pursuing Computer Science and Computational Linguistics
-- 👀 I've keen interest in the field of Linguistics! As for the hobbies, I like drawing, solving logical puzzles, watching sports.  
-- 📫 How to reach me : via my email- navya.shrivastava@research.iiit.ac.in 
+-  Hi, I’m Navya!
+-  I’m currently pursuing Computer Science and Computational Linguistics
+-  I've keen interest in the field of Linguistics! As for the hobbies, I like drawing, solving logical puzzles, watching sports.  
+-  How to reach me : via my email- navya.shrivastava@research.iiit.ac.in 
 
 
 <!---
